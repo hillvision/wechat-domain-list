@@ -88,6 +88,7 @@ emoji.qpic.cn
 resstatic.servicewechat.com
 dldir1.qq.com
 cube.weixinbridge.com
+shminorshort.weixin.qq.com
 login.wx.qq.com
 api.weixin.qq.com/cgi-bin/message
 api.weixin.qq.com/cgi-bin/media
